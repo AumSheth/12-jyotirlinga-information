@@ -77,7 +77,7 @@ const jyotirlingas = {
     hover: "Linked to Ramayana"
   },
   grishneshwar: {
-    images: ["images/grishneshwar1.jpg", "images/grishneshwar.jpg"],
+    images: ["images/girish123.jpg", "images/grishneshwar.jpg"],
     english: "<h2> Grishneshwar Jyotirlinga's History </h2>:--> Grishneshwar Jyotirlinga, located near Ellora Caves in Maharashtra, is one of the 12 revered Jyotirlingas in India. The temple is dedicated to Lord Shiva and is believed to have been built in the 18th century by Queen Ahilyabai Holkar. According to legend, a devotee named Ghushma worshiped Lord Shiva with great devotion, and the lord appeared in the form of a Jyotirlinga. The temple's architecture is a blend of ancient and modern styles, featuring intricate carvings and stunning pillars. <h2> Key Points</h2>:--> Location: Near Ellora Caves, Maharashtra, India.<br>:-->Legend: Ghushma's devotion led to Lord Shiva's appearance as a Jyotirlinga.<br>:-->Architecture: Ancient and modern styles with intricate carvings and pillars.and is located near Ellora Caves in Maharashtra.",
     hindi: "<h2> घृष्णेश्वर ज्योतिर्लिंग </h2>:-->घृष्णेश्वर ज्योतिर्लिंग, महाराष्ट्र में एलोरा गुफाओं के पास स्थित, भारत के 12 ज्योतिर्लिंगों में से एक है। मंदिर भगवान शिव को समर्पित है और माना जाता है कि इसे 18वीं शताब्दी में रानी अहिल्याबाई होल्कर ने बनवाया था। पौराणिक कथा के अनुसार, घुश्मा नामक एक भक्त ने भगवान शिव की महान भक्ति की, और भगवान ज्योतिर्लिंग के रूप में प्रकट हुए। मंदिर की वास्तुकला प्राचीन और आधुनिक शैलियों का मिश्रण है, जिसमें जटिल नक्काशी और आश्चर्यजनक स्तंभ हैं।<h2> मुख्य बिंदु </h2>:-->स्थान: एलोरा गुफाओं के पास, महाराष्ट्र, भारत।<br>:-->पौराणिक कथा: घुश्मा की भक्ति से भगवान शिव का प्राकट्य।<br>:-->वास्तुकला: प्राचीन और आधुनिक शैलियों का मिश्रण।घृष्णेश्वर अंतिम ज्योतिर्लिंग है और यह महाराष्ट्र में एलोरा की गुफाओं के पास स्थित है।",
     gujarati: "<h2> ઘૃષ્ણેશ્વર જ્યોતિર્લિંગ </h2>:-->ઘૃષ્ણેશ્વર જ્યોતિર્લિંગ, મહારાષ્ટ્રમાં એલોરા ગુફાઓની નજીક સ્થિત, ભારતના 12 જ્યોતિર્લિંગોમાંનું એક છે. મંદિર ભગવાન શિવને સમર્પિત છે અને મનાય છે કે તેને 18મી સદીમાં રાણી અહિલ્યાબાઈ હોલ્કરે બનાવ્યું હતું. દંતકથા અનુસાર, ઘુષ્મા નામના એક ભક્તે ભગવાન શિવની મહાન ભક્તિ કરી, અને ભગવાન જ્યોતિર્લિંગના રૂપમાં પ્રગટ થયા. મંદિરની વાસ્તુકળા પ્રાચીન અને આધુનિક શૈલીઓનું મિશ્રણ છે, જેમાં જટિલ નક્કાશી અને આશ્ચર્યજનક સ્તંભ છે.<h2> મુખ્ય બિંદુઓ </h2>:-->સ્થાન: એલોરા ગુફાઓની નજીક, મહારાષ્ટ્ર, ભારત.<br>:-->દંતકથા: ઘુષ્માની ભક્તિથી ભગવાન શિવનો પ્રાકટ્ય.<br>:-->વાસ્તુકળા: પ્રાચીન અને આધુનિક શૈલીઓનું મિશ્ર.શ્વર છેલ્લું જ્યોતિર્લિંગ છે અને તે મહારાષ્ટ્રમાં એલોરાની ગુફાઓ નજીક આવેલું છે.",
@@ -181,5 +181,6 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
 
 
