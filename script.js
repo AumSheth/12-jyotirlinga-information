@@ -56,7 +56,7 @@ const jyotirlingas = {
     hover: "Source of Godavari"
   },
   vaidyanath: {
-    images: ["images/vidhyanath1.jpg", "images/vai123.jpg"],
+    images: ["images/vidhyanath1.jpg", "images/Vai123.jpg"],
     english: "<h2> Vaidyanath Jyotirlinga's History </h2>:-->Vaidyanath Jyotirlinga, located in Deoghar, Jharkhand, is one of the 12 revered Jyotirlingas dedicated to Lord Shiva. According to legend, the temple was established by Ravana, the demon king of Lanka, who performed intense penance to please Lord Shiva. Pleased with his devotion, Shiva granted Ravana a Jyotirlinga as a boon. However, due to divine intervention, the Jyotirlinga remained in Deoghar instead of being taken to Lanka.<h2> Key Aspects </h2>:-->Location: Deoghar, Jharkhand, India.<br>:-->Mythological Significance: Associated with Ravana's devotion to Lord Shiva.<br>:-->Cultural Importance: A symbol of spiritual healing and cultural significance.yanath Jyotirlinga is located in Deoghar, Jharkhand, and is considered a place of healing.",
     hindi: "<h2> वैद्यनाथ ज्योतिर्लिंग  </h2>:-->वैद्यनाथ ज्योतिर्लिंग, देवघर, झारखंड में स्थित, भगवान शिव को समर्पित 12 ज्योतिर्लिंगों में से एक है। पौराणिक कथा के अनुसार, मंदिर की स्थापना रावण द्वारा की गई थी, जिसने भगवान शिव को प्रसन्न करने के लिए घोर तपस्या की थी। भगवान शिव ने रावण को एक ज्योतिर्लिंग प्रदान किया, लेकिन दिव्य हस्तक्षेप के कारण, यह ज्योतिर्लिंग लंका के बजाय देवघर में ही रह गया।<h2> मुख्य बिंदु </h2>:-->स्थान: देवघर, झारखंड, भारत।<br>:-->पौराणिक महत्व: रावण की भगवान शिव के प्रति भक्ति से जुड़ा हुआ।<br>:-->सांस्कृतिक महत्व: आध्यात्मिक उपचार और सांस्कृतिक महत्व का प्रतीक।झारखंड के देवघर में स्थित है और इसे उपचार का स्थान माना जाता है।",
     gujarati: "<h2> વૈદ્યનાથ જ્યોતિર્લિંગ </h2>:-->વૈદ્યનાથ જ્યોતિર્લિંગ, દેવઘર, ઝારખંડમાં સ્થિત, ભગવાન શિવને સમર્પિત 12 જ્યોતિર્લિંગોમાંનું એક છે. દંતકથા અનુસાર, મંદિરની સ્થાપના રાવણ દ્વારા કરવામાં આવી હતી, જેણે ભગવાન શિવને પ્રસન્ન કરવા માટે ઘોર તપસ્યા કરી હતી. ભગવાન શિવે રાવણને એક જ્યોતિર્લિંગ આપ્યું, પરંતુ દૈવી હસ્તક્ષેપને કારણે, આ જ્યોતિર્લિંગ લંકાને બદલે દેવઘરમાં જ રહી ગયું.<h2> મુખ્ય બિંદુઓ </h2>:--> સ્થાન: દેવઘર, ઝારખંડ, ભારત.<br>:-->પૌરાણિક મહત્વ: રાવણની ભગવાન શિવ પ્રત્યેની ભક્તિ સાથે જોડાયેલું.<br>:-->સાંસ્કૃતિક મહત્વ: આધ્યાત્મિક ઉપચાર અને સાંસ્કૃતિક મહત્વનું પ્રતીકથ જ્યોતિર્લિંગ ઝારખંડના દેવઘરમાં આવેલું છે અને તેને ઉપચારનું સ્થાન માનવામાં આવે છે.",
@@ -181,6 +181,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
 
 
 
