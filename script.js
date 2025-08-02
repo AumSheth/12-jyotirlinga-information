@@ -70,7 +70,7 @@ const jyotirlingas = {
     hover: "Protector from poison"
   },
   rameshwaram: {
-    images: ["images/rameshwaram1.jpg", "images/rameshwaram.jpg"],
+    images: ["images/ram1.jpg", "images/rameshwaram.jpg"],
     english: "<h2> Rameshwar Jyotirlinga's History </h2>:-->Rameshwar Jyotirlinga, located in Rameswaram, Tamil Nadu, is one of the 12 revered Jyotirlingas in India. According to legend, Lord Rama worshiped Lord Shiva at this site before defeating the demon king Ravana. To atone for the sin of killing Ravana, a Brahmin and great Shiva devotee, Lord Rama installed a Shivalinga at Rameshwaram. The temple has a rich history, with its current structure built in the 17th century AD. The temple's architecture is a blend of Dravidian and Nayak styles, featuring vast corridors, towers, and 36 theerthams<h2> Key Points </h2>:-->Location: Rameswaram, Tamil Nadu, India.<br>:-->Legend: Lord Rama worshiped Lord Shiva to atone for killing Ravana.<br>:-->Significance: One of the 12 Jyotirlingas, symbolizing divine protection and power.",
     hindi: "<h2>रामेश्वर ज्योतिर्लिंग</h2>:-->रामेश्वर ज्योतिर्लिंग, तमिलनाडु के रामेश्वरम में स्थित, भारत के 12 ज्योतिर्लिंगों में से एक है। पौराणिक कथा के अनुसार, भगवान राम ने रावण को हराने से पहले इस स्थल पर भगवान शिव की पूजा की थी। रावण वध के पाप को धोने के लिए भगवान राम ने रामेश्वरम में एक शिवलिंग की स्थापना की। मंदिर का इतिहास समृद्ध है, जिसकी वर्तमान संरचना 17वीं शताब्दी में बनाई गई थी। मंदिर की वास्तुकला द्रविड़ और नायक शैलियों का मिश्रण है, जिसमें विशाल गलियारे, मीनारें और 36 तीर्थ हैं।<h2> मुख्य बिंदु  </h2>:-->स्थान: रामेश्वरम, तमिलनाडु, भारत।<br>:-->पौराणिक कथा: भगवान राम ने रावण वध के पाप को धोने के लिए भगवान शिव की पूजा की।<br>:-->महत्व: 12 ज्योतिर्लिंगों में से एक, दिव्य सुरक्षा और शक्ति का प्रतीक।",
     gujarati: "<h2> રામેશ્વર જ્યોતિર્લિંગ </h2>:-->રામેશ્વર જ્યોતિર્લિંગ, તમિલનાડુના રામેશ્વરમમાં સ્થિત, ભારતના 12 જ્યોતિર્લિંગોમાંનું એક છે. દંતકથા અનુસાર, ભગવાન રામે રાવણને હરાવતા પહેલા આ સ્થળે ભગવાન શિવની પૂજા કરી હતી. રાવણ વધના પાપને ધોવા માટે ભગવાન રામે રામેશ્વરમમાં એક શિવલિંગની સ્થાપના કરી. મંદિરનો ઇતિહાસ સમૃદ્ધ છે, જેની વર્તમાન સંરચના 17મી સદીમાં બનાવવામાં આવી હતી. મંદિરની વાસ્તુકળા દ્રવિડ અને નાયક શૈલીઓનું મિશ્રણ છે, જેમાં વિશાળ ગલિયારા, મીનારાઓ અને 36 તીર્થ છે.<h2> મુખ્ય બિંદુઓ </h2>:--> સ્થાન: રામેશ્વરમ, તમિલનાડુ, ભારત.<br>:-->દંતકથા: ભગવાન રામે રાવણ વધના પાપને ધોવા માટે ભગવાન શિવની પૂજા કરી.<br>:-->મહત્વ: 12 જ્યોતિર્લિંગોમાંનું એક, દૈવી સુરક્ષા અને શક્તિનું પ્રતીક.",
@@ -181,4 +181,5 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
 
